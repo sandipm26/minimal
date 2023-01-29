@@ -1,5 +1,7 @@
 title: <p align="center"> Sandip Mahato
 logo: /assets/img/logo.jpg
+
+
 description:
   <p align="center">
   <a href="https://github.com/sandipm26">GitHub</a>
@@ -10,4 +12,5 @@ description:
   Worked with IBM Canada at Big Data Analytics team.
   <br>
   </p>
+  
 theme: jekyll-theme-minimal
